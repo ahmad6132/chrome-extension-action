@@ -1,14 +1,5 @@
 # Chrome Extension Upload & Publish
-
-This action uses Chrome Web Store API to uploads and publishes to given publishTarget the zipped file which you provide via getting access token by provided refresh token.
-
-## Using the Chrome Web Store Publish API
-
-Chrome Web Store API Getting Started : https://developer.chrome.com/docs/webstore/using_webstore_api/
-
-Chrome Web Store API : https://console.cloud.google.com/apis/api/chromewebstore.googleapis.com
-
-Chrome Web Store API Reference : https://developer.chrome.com/docs/webstore/api_index/
+api_index/
 
 ## Inputs
 
