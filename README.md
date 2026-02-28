@@ -44,6 +44,5 @@ with:
   client-id: 'xxxxxxxx'
   client-secret: 'xxxxxxxxxxxx'
   extension-file: 'xxxxxxxxx-xxxx'
-  publish: true
   tester: false
 ```
